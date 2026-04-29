@@ -1,5 +1,5 @@
 #Aquí debes introducir el código Python para recrear el Juego del Camello que encontarás en el Taller 4 de Programarcadegames
-# Solo funciona por completo ejecutándolo en la terminal. En colab la pantalla no se borrará, pero sigue siendo jugable.
+#Solo funciona por completo ejecutándolo en la terminal. En colab la pantalla no se borrará, pero sigue siendo jugable.
 
 import time
 import os
